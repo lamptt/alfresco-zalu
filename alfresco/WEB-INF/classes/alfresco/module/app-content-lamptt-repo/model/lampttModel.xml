@@ -115,7 +115,7 @@
 			<properties>
 				<property name="la:t1p1"> <!--Ma co quan-->
 					<type>d:text</type>
-					<default>22_2</default> 
+					<default>44_</default> 
 				</property>
 				<property name="la:t1p2"> <!--maphong-->
 					<type>d:text</type>
@@ -334,7 +334,7 @@
 			<properties>
 				<property name="la:t2p1">  <!--Macoquan-->
 					<type>d:text</type>
-					<default>22_2</default>
+					<default>44_</default>
 				</property>
 				<property name="la:t2p2">  <!--Maphong-->
 					<type>d:text</type>

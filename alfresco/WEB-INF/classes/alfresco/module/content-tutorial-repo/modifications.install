@@ -1,0 +1,14 @@
+add|/WEB-INF/lib/content-tutorial-repo.jar
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/context/service-context.xml
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/messages/lamptt.properties
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/messages/minhptButTich.properties
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/model/lampttModel.xml
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/model/minhptButTichModel.xml
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/log4j.properties
+add|/WEB-INF/classes/alfresco/module/content-tutorial-repo/module-context.xml
+mkdir|/WEB-INF/classes/alfresco/module/content-tutorial-repo/context
+mkdir|/WEB-INF/classes/alfresco/module/content-tutorial-repo/messages
+mkdir|/WEB-INF/classes/alfresco/module/content-tutorial-repo/model
+mkdir|/WEB-INF/classes/alfresco/module/content-tutorial-repo
+mkdir|/WEB-INF/classes/alfresco/module
+mkdir|/WEB-INF/classes/alfresco

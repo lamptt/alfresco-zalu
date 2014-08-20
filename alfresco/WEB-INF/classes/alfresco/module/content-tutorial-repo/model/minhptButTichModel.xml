@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="xla:buttich" xmlns="http://www.alfresco.org/model/dictionary/1.0">
+	<description>lamptt'S </description>
+	<author>lamptt</author>
+	<version>1.0</version>
+	<imports>
+		<import uri="http://www.alfresco.org/model/dictionary/1.0"
+			prefix="d" />
+		<import uri="http://www.alfresco.org/model/content/1.0" prefix="cm" />
+	</imports>
+	<namespaces>
+		<namespace uri="http://zalu.vn/model/buttich/1.0" prefix="xla" />
+	</namespaces>
+	<aspects>
+		<aspect name="xla:oldname">
+			<title>Name old</title>
+			<properties>
+				<property name="xla:name">
+					<type>d:text</type>
+				</property>
+			</properties>
+		</aspect>
+	</aspects>	
+</model>

@@ -1,0 +1,12 @@
+add|/WEB-INF/lib/app-content-lamptt-share.jar
+add|/WEB-INF/classes/alfresco/module/app-content-lamptt-share/messages/lamptt.properties
+add|/WEB-INF/classes/alfresco/module/app-content-lamptt-share/log4j.properties
+add|/WEB-INF/classes/alfresco/web-extension/site-data/template-instances/document-details.xml
+add|/WEB-INF/classes/alfresco/web-extension/app-behavior-lamptt-share-context.xml
+mkdir|/WEB-INF/classes/alfresco/module/app-content-lamptt-share/messages
+mkdir|/WEB-INF/classes/alfresco/module/app-content-lamptt-share
+mkdir|/WEB-INF/classes/alfresco/module
+mkdir|/WEB-INF/classes/alfresco/web-extension/site-data/template-instances
+mkdir|/WEB-INF/classes/alfresco/web-extension/site-data
+mkdir|/WEB-INF/classes/alfresco/web-extension
+mkdir|/WEB-INF/classes/alfresco

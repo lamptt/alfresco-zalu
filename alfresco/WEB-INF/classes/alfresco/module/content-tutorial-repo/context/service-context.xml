@@ -34,13 +34,13 @@
         </property>
     </bean>
     
-    <bean id="buttichbean" class="zalu.vn.bean.ButTichBean">
+    <!-- <bean id="buttichbean" class="zalu.vn.bean.ButTichBean">
 		<property name="nodeService">
 			<ref bean="NodeService" />
 		</property>
-	</bean>
+	</bean> -->
 	
-	<bean id="content-tutorial-repo_buttichBehaviour" class="zalu.vn.behaviour.ButTichBehaviour"
+	<!-- <bean id="content-tutorial-repo_buttichBehaviour" class="zalu.vn.behaviour.ButTichBehaviour"
 		init-method="init">
 		<property name="buttichbean">
 			<ref bean="buttichbean" />
@@ -48,7 +48,7 @@
 		<property name="policyComponent">
 			<ref bean="policyComponent" />
 		</property>
-	</bean>
+	</bean> -->
 	
 	 <bean id="processfilesbean" class="zalu.vn.bean.ProcessFilesBean">
 		<property name="nodeService">

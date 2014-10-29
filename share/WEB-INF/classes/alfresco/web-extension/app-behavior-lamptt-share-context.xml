@@ -3,10 +3,10 @@
 <beans>
 
    <!-- Add Someco messages -->
-   <bean id="app-content-lamptt-share_resources" class="org.springframework.extensions.surf.util.ResourceBundleBootstrapComponent">
+   <bean id="${project.artifactId}_resources" class="org.springframework.extensions.surf.util.ResourceBundleBootstrapComponent">
       <property name="resourceBundles">
          <list>
-         	<value>alfresco.module.app-content-lamptt-share.messages.lamptt</value>
+         	<value>alfresco.module.${project.artifactId}.messages.lamptt</value>
          </list>
       </property>
    </bean>
